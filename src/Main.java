@@ -1,7 +1,6 @@
 public class Main {
-
     //Задание 1
-   public static void main(String[] args) {
+    public static void main(String[] args) {
         byte a = 125;
         short b = 32750;
         int c = 2147483643;
@@ -69,4 +68,5 @@ public class Main {
             System.out.println("Год высокосный");
         }
     }
+
 }
