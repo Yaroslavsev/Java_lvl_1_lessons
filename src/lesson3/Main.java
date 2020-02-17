@@ -2,7 +2,6 @@ package lesson3;
 
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
